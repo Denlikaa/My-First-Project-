@@ -1,0 +1,42 @@
+.body{display: flex;
+  
+  
+ }
+
+
+  .group{display: flexbox;
+     margin-right: 400px;    
+
+}
+.mid{display: flex;
+  gap: 50px;
+color: black;}
+
+.icon{display: flex;
+  margin-left: 450px;
+  gap: 20px;
+}
+
+
+.head{display: flex;
+  padding-right: 20px;
+  
+  
+}
+.box{margin-right: 600px;
+}
+
+.image{display: flex;}
+
+.class{display: inline-flex;
+  margin-right: 400px;
+  gap: 40px;
+}
+.bottom{display: flex;
+height: 200px;
+width: 900px;}
+.products{display: flex;
+
+gap: 40px;
+width: 900px;
+height: 200px;}
